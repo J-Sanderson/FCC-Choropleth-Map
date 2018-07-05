@@ -1,0 +1,20 @@
+body {
+  background-color: #ccf3ff;
+  font-family: sans-serif;
+}
+
+#main {
+  width: 1000px;
+  margin: auto;
+}
+
+.county {
+  stroke: #4b3621;
+  stroke-width: .3;
+}
+
+.d3-tip {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 5px;
+  border-radius: 5px;
+}
